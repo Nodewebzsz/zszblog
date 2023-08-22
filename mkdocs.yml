@@ -7,7 +7,7 @@ site_name: 后知后觉的个人博客
 site_description: 'Linux相关知识'
 site_author: '后知后觉'
 # 本博客的url
-site_url: 'http://blog.zszweb.tk'
+site_url: 'https://blog.zszweb.tk'
 
 #2.使用material主题
 theme:
@@ -568,9 +568,9 @@ nav:
     - 引言: new-teck/index.md
 #4. 添加右上角仓库超链接跳转
 # Repository
-repo_name: '我的github'
+repo_name: 'evolution-host free-vps'
 #repo_url: 'http://chupeng.site'
-repo_url: 'https://github.com/Nodewebzsz/zszblog'
+repo_url: 'https://evolution-host.com/free-vps.php'
 
 
 #5. 添加底部版权说明（一般备案后，都会要求在页面上展示备案号！）
@@ -601,7 +601,7 @@ extra:
       link: https://github.com
       #4....可以使用图标设置自己的链接
     - icon: fontawesome/brands/pied-piper-alt
-      link: https://blog.zszweb.cn
+      link: https://blog.zszweb.tk
 #  # 添加语言选择
 #  alternate:
 #    - name: English
